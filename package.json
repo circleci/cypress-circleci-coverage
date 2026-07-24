@@ -21,8 +21,8 @@
     "cypress": ">=15.0.0"
   },
   "devDependencies": {
-    "@babel/core": "^8.0.0",
-    "@babel/preset-typescript": "^8.0.0",
+    "@babel/core": "^7.29.0",
+    "@babel/preset-typescript": "^7.28.5",
     "@cypress/webpack-preprocessor": "^7.0.2",
     "@prettier/plugin-oxc": "^0.1.3",
     "@types/node": "^25.5.0",
@@ -36,5 +36,6 @@
   },
   "engines": {
     "node": ">=20.0.0"
-  }
+  },
+  "packageManager": "pnpm@12.0.0-alpha.20+sha512.c84c1eeba7b3c8913138f22d143222a520d4f97957125fef2411cad14e947c39960a526295ea640bf551eb331a14cca1b01a76ef6e0e70c18bde8034d43e3754"
 }
