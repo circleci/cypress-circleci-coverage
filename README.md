@@ -1,5 +1,8 @@
 # cypress-circleci-coverage
 
+> [!IMPORTANT]
+> This plugin has moved: https://github.com/CircleCI-Public/smarter-testing-plugins
+
 A Cypress plugin that generates coverage data for
 CircleCI's [Smarter Testing](https://circleci.com/docs/guides/test/smarter-testing/).
 
